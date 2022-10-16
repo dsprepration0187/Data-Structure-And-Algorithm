@@ -1,0 +1,23 @@
+What we are going to learn .
+
+                     Data Structure
+                           |
+        --------------------------------------- 
+        |                                     |
+    Linear Data Structure               Non Linear Data Structure
+        | - String                            |- Tree
+        | - Array                             | - Graph
+        | - Stack
+        | - Queue
+        | - Linked List
+
+                        Algorithm
+                            | - Bit Manipulation Technique
+                            | - Sliding Window Technique
+                            | - Sorting And Searching
+                            | - Binary Search
+                            | - Recursion and Backtracking
+                            | - Dynamic Programming
+                            | - Divide And Concquer
+                            | - Bfs and Dfs
+        
