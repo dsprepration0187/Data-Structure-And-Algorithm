@@ -8,5 +8,10 @@ Questions  - 1) Valid Parentheses (20 easy)
              4) Evaluate Reverse Polish Notation (150 medium)
              5) Implement stack(easy)
 
+<<<<<<< HEAD
              tenzin is handsome
 
+=======
+             tenzin is gadha
+	     Shubham gandu haii
+>>>>>>> e95e8e6fd70473e1d840a625169d679741415d6a
