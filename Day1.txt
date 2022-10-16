@@ -7,3 +7,5 @@ Questions  - 1) Valid Parentheses (20 easy)
              3) Simplify Path (71 medium)
              4) Evaluate Reverse Polish Notation (150 medium)
              5) Implement stack(easy)
+
+             tenzin is gadha
