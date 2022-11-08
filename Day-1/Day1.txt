@@ -9,3 +9,11 @@ Questions  - 1) Valid Parentheses (20 easy)
              5) Implement stack(easy)
 
              tenzin is handsome
+
+
+   {()[]}
+   {]}
+   ][
+ }
+ ]
+ {

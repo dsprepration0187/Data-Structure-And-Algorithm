@@ -1,0 +1,11 @@
+Queue ----
+  Queue is a linear data structure based on FIFO
+
+
+Questions 
+    Implement Stack using Queue(225,Easy)
+    Implement Queqe using stack(232,Easy)
+    Sliding Window Maximum(239,Hard)
+    Moving Average from Datastream(346,easy)
+    Minimum number of K consecutive Bit-Flips(995,Hard)
+    Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit(1438,Medium)
